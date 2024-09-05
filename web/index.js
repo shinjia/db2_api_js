@@ -1,4 +1,4 @@
-// API URLs
+// 定義 API URLs
 const apiUrls = {
     list: 'http://localhost/myweb/db2_api/api/read.php',
     disp: 'http://localhost/myweb/db2_api/api/read_one.php',

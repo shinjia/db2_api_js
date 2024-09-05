@@ -1,4 +1,4 @@
-// API URL
+// 定義 API URL
 const url = 'http://localhost/myweb/db2_api/api/read_find.php';
 
 // 綁定按鈕點擊事件
