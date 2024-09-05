@@ -1,5 +1,5 @@
 // 定義 API URL
-const url = 'http://localhost/myweb/db2_api/api/read.php';
+const url = 'http://localhost/myweb/db2_api_js/api/read.php';
 
 // 等待 DOM 加載完成後綁定按鈕事件
 document.addEventListener('DOMContentLoaded', () => {

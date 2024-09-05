@@ -1,8 +1,8 @@
 // 定義 API URLs
 const apiUrls = {
-    list: 'http://localhost/myweb/db2_api/api/read.php',
-    disp: 'http://localhost/myweb/db2_api/api/read_one.php',
-    find: 'http://localhost/myweb/db2_api/api/read_find.php'
+    list: 'http://localhost/myweb/db2_api_js/api/read.php',
+    disp: 'http://localhost/myweb/db2_api_js/api/read_one.php',
+    find: 'http://localhost/myweb/db2_api_js/api/read_find.php'
 };
 
 // 等待 DOM 加載完成後綁定事件

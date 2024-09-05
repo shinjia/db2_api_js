@@ -1,5 +1,5 @@
 // 定義 API URL
-const url = 'http://localhost/myweb/db2_api/api/read_find.php';
+const url = 'http://localhost/myweb/db2_api_js/api/read_find.php';
 
 // 綁定按鈕點擊事件
 document.getElementById('btn').addEventListener('click', function() {
